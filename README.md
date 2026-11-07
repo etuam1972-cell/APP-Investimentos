@@ -236,24 +236,7 @@ Foram realizados testes com diferentes combinações de parâmetros para verific
 
 ## 📸 Demonstração
 
-> 📌 Adicione aqui uma captura de tela do simulador ou um GIF demonstrando a interatividade da ferramenta.
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  🏢  SIMULADOR DE INVESTIMENTOS EM FIIs                             │
-├──────────────────────────────┬───────────────────────────────────────┤
-│  ✍️ ENTRADAS                 │  📊 RESULTADOS                       │
-├──────────────────────────────┼───────────────────────────────────────┤
-│  💵 Aporte Mensal: R$ 1.000  │  💰 Valor Futuro:   R$ XXX.XXX,XX    │
-│  📅 Prazo: 60 meses          │  📈 Rendimento:     R$ XXX.XXX,XX    │
-│  📈 Taxa: 0,80% a.m.         │  💵 Total Aportado: R$  60.000,00    │
-│  👤 Perfil: Moderado         ├───────────────────────────────────────┤
-│  🏢 Tipo: Papel              │  🎯 ALOCAÇÃO RECOMENDADA             │
-│                              │  🧱 Tijolo:  40%                     │
-│                              │  📄 Papel:   40%                     │
-│                              │  🔀 Híbrido: 20%                     │
-└──────────────────────────────┴───────────────────────────────────────┘
-```
+> 📌 ![Dashboard](./APP.png)
 
 ---
 
