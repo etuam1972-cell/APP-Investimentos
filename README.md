@@ -236,7 +236,7 @@ Foram realizados testes com diferentes combinações de parâmetros para verific
 
 ## 📸 Demonstração
 
-> 📌 ![Dashboard](./APP.png)
+> ![Dashboard](./APP.png)
 
 ---
 
