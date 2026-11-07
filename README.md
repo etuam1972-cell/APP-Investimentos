@@ -130,13 +130,21 @@ Resultados
 🎓 Competências Desenvolvidas
 
 Matemática Financeira
+
 Simulação de Investimentos
+
 Modelagem de Planilhas
+
 Excel Avançado
+
 Automação de Cálculos
+
 Funções Financeiras
+
 Funções de Busca e Referência
+
 Organização e Proteção de Dados
+
 Análise de Cenários
 
 🚀 Principais Resultados
