@@ -50,13 +50,13 @@ O usuário preenche os seguintes parâmetros para iniciar a simulação:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│               📋 PAINEL DE ENTRADA DE DADOS                  │
+│               📋 PAINEL DE ENTRADA DE DADOS                 │
 ├──────────────────────────────┬───────────────────────────────┤
 │  💵 Aporte Mensal            │  R$ ___________               │
 │  📅 Prazo da Aplicação       │  ___ meses                    │
 │  📈 Taxa de Rendimento       │  ___% ao mês                  │
 │  👤 Perfil do Investidor     │  [ Conservador / Moderado /   │
-│                              │    Agressivo ]                │
+│                               │    Agressivo ]                │
 │  🏢 Tipo de FII              │  [ Tijolo / Papel / Híbrido ] │
 └──────────────────────────────┴───────────────────────────────┘
          ↓ Todos os cálculos atualizam automaticamente ↓
@@ -162,15 +162,15 @@ Para preservar a **integridade dos cálculos** e evitar alterações acidentais:
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│                 🔒 MAPA DE PROTEÇÃO                    │
+│                 🔒 MAPA DE PROTEÇÃO                   │
 ├─────────────────────────┬──────────────────────────────┤
-│  ✏️ EDITÁVEL             │  🔒 BLOQUEADO               │
+│  ✏️ EDITÁVEL             │  🔒 BLOQUEADO              │
 ├─────────────────────────┼──────────────────────────────┤
-│  💵 Aporte Mensal       │  🧮 Fórmula VF()             │
-│  📅 Prazo               │  🔎 Fórmula PROCV()          │
-│  📈 Taxa                │  📊 Tabela Auxiliar          │
-│  👤 Perfil              │  🔢 Resultados Calculados    │
-│  🏢 Tipo de FII         │  📐 Parâmetros de Referência │
+│  💵 Aporte Mensal       │  🧮 Fórmula VF()            │
+│  📅 Prazo               │  🔎 Fórmula PROCV()         │
+│  📈 Taxa                │  📊 Tabela Auxiliar         │
+│  👤 Perfil              │  🔢 Resultados Calculados   │
+│  🏢 Tipo de FII         │  📐 Parâmetros de Referência│
 └─────────────────────────┴──────────────────────────────┘
 ```
 
@@ -240,9 +240,9 @@ Foram realizados testes com diferentes combinações de parâmetros para verific
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│  🏢  SIMULADOR DE INVESTIMENTOS EM FIIs                              │
+│  🏢  SIMULADOR DE INVESTIMENTOS EM FIIs                             │
 ├──────────────────────────────┬───────────────────────────────────────┤
-│  ✍️ ENTRADAS                 │  📊 RESULTADOS                        │
+│  ✍️ ENTRADAS                 │  📊 RESULTADOS                       │
 ├──────────────────────────────┼───────────────────────────────────────┤
 │  💵 Aporte Mensal: R$ 1.000  │  💰 Valor Futuro:   R$ XXX.XXX,XX    │
 │  📅 Prazo: 60 meses          │  📈 Rendimento:     R$ XXX.XXX,XX    │
